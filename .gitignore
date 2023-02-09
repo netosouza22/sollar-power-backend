@@ -1,0 +1,7 @@
+node_modules
+buid
+_study-case
+app.js
+
+#env
+.env
